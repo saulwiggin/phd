@@ -1,4 +1,2 @@
-phd
-===
-
-codes from my phd
+#Axial aberrations in a GRIN lens according to Biocort model
+Biocort model I wrote during my PhD from an academic paper in order to calculate the aberrations in a grin lens. It has axial gradient of refractive index rather than the radial distribution of the other code. The idea is to combine the two to give an analytical solution using ray tracing for the aberrations in a lens with 2D distribution of refractive index. 
